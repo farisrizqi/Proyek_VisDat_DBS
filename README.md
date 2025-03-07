@@ -2,7 +2,10 @@
 
 ## Deskripsi 
 ```
-Proyek ini mengembangkan sistem visualisasi data yang terintegrasi dengan database. Sistem ini memungkinkan pengguna untuk menampilkan data dari sumber database dalam bentuk visual yang lebih mudah dipahami, seperti grafik dan diagram. Proyek ini dibuat dengan tujuan penyelesaian submission pada kursus "Belajar Analisis Data dengan Python" oleh DBS_Foundation.
+Proyek ini mengembangkan sistem visualisasi data yang terintegrasi dengan database. Sistem ini memungkinkan
+pengguna untuk menampilkan data dari sumber database dalam bentuk visual yang lebih mudah dipahami, seperti
+grafik dan diagram. Proyek ini dibuat dengan tujuan penyelesaian submission pada kursus "Belajar Analisis
+Data dengan Python" oleh DBS_Foundation.
 ```
 
 ## Setup Environment - Anaconda
